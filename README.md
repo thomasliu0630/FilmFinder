@@ -20,7 +20,7 @@ Many streaming platforms are saturated with overly promoted or mainstream conten
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component      | Tool/Library            |
 |----------------|--------------------------|
