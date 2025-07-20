@@ -26,6 +26,6 @@ Many streaming platforms are saturated with overly promoted or mainstream conten
 |----------------|--------------------------|
 | Data Source    | [TMDb API](https://developer.themoviedb.org/) |
 | Programming    | Python (requests, pandas, datetime) |
-| Data Storage   | SQLite / Pandas DataFrames |
-| Frontend       | Streamlit *(in progress)* |
+| Data Storage   | MySQL / Pandas DataFrames |
+| Dashboard      | PowerBI *(in progress)* |
 | Version Control| Git & GitHub |
